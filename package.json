@@ -12,5 +12,7 @@
     "ECMA"
   ],
   "author": "Felipe Ortiz <felort15@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
+
 }
